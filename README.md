@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter campaigns
-######Jackeline Cortés Cabrera
+##Jackeline Cortés Cabrera
 
 **1. Introduction**
 
@@ -12,18 +12,18 @@ The database was evaluated with fundamental analysis in Excel as part of Module 
 _Findings for "Fever":_
 From 2010 to 2017, 4144 events were performed worldwide to crowdfunding different types of activities. Crowdfunding 25.91% represented plays, 16.87% from the total of campaigns successfully collected the goal or more. Also, it is essential to mention that Great Britain and the USA have almost 94% of this result, so Louise has thought in the right market and population. See Fig 1.
 
-######Fig 1.
+Fig 1.
 ![image_name](https://github.com/JackieCortes/kickstarter-analysis/blob/main/Fig1_ParentCategoryOutocome.png)
 
 The analysis of these years also gives visibility that good results are reached in May and June. As the highest point is in May, I would say to prefer this month. From July to Jan is observed a descend in the successful work. See Fig 2.
 Adding that the successful campaigns lasted one month, this is the mean. 
 
-######Fig 2.
+Fig 2.
 ![image_name](https://github.com/JackieCortes/kickstarter-analysis/blob/main/Fig2_Outcomes_Based_on_Launched_Date.png)
 
 The Descriptive Statistics were reviewed that mean the goal and pledged successful play crowdfunding is around 5,000 USD. The median is 3,000 USD for a successful goal and pledged. For failed plays, the mean goal is double of successful plays: 10,000 USD, and the median of this failed goal is 5,000. So our recommendation to Louise would be to adjust the goal from 10,000 to 5,000 USD. Please, see Fig 3.
 
-######Fig 3.
+Fig 3.
 ![image_name](https://github.com/JackieCortes/kickstarter-analysis/blob/main/Fig3_GB_Results.png)
 
 _Suggestions for a future musical:_
