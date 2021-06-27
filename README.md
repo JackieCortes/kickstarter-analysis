@@ -36,4 +36,4 @@ Louise can adjust her plan to the following points:
   3.	Adjust her budget, decreasing 50% for both plays.
 
 With these points, Louise could reach her plans. 
-Note: If you want to see the complete analysis, please consult  the attached excel file [filename](https://github.com/JackieCortes/kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx).
+Note: If you want to see the complete analysis, please consult  the attached excel file [data-1-1-3-StarterBook.xlsx](https://github.com/JackieCortes/kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx).
