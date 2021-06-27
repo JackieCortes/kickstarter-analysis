@@ -10,9 +10,9 @@ _This piece presents the result of primary data analysis. The database studied a
 The database was evaluated with fundamental analysis in Excel as part of Module I for the Data Analytics Boot Camp. 
 
 _Findings for "Fever":_
-From 2010 to 2017, 4144 events were performed worldwide to crowdfunding different types of activities. Crowdfunding 25.91% represented plays, 16.87% from the total of campaigns successfully collected the goal or more. Also, it is essential to mention that Great Britain and the USA have almost 94% of this result, so Louise has thought in the right market and population.
+From 2010 to 2017, 4144 events were performed worldwide to crowdfunding different types of activities. Crowdfunding 25.91% represented plays, 16.87% from the total of campaigns successfully collected the goal or more. Also, it is essential to mention that Great Britain and the USA have almost 94% of this result, so Louise has thought in the right market and population. See Fig 1.
 
-Fig 1.![image_name]https://github.com/JackieCortes/kickstarter-analysis/blob/main/Fig1_ParentCategoryOutocome.png
+Fig 1.![image_name](https://github.com/JackieCortes/kickstarter-analysis/blob/main/Fig1_ParentCategoryOutocome.png)
 
 The analysis of these years also gives visibility that good results are reached in May and June. As the highest point is in May, I would say to prefer this month. From July to Jan is observed a descend in the successful work. Adding that the successful campaigns lasted one month, this is the mean. 
 
