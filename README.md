@@ -1,5 +1,6 @@
 # An Analysis of Kickstarter campaigns
-Jackeline Cortés Cabrera
+###Jackeline Cortés Cabrera
+
 **1. Introduction**
 __This piece presents the result of primary data analysis. The database studied are results from several countries on various events and the work done to fund them. Our client, called Louise, was interested in starting a campaign to fund her play "Fever" in the USA; she wanted to raise 10,000 USD. Also, she mentioned having a future drive to crowdfunding another play, a musical in Great Britain, looking for L 4,000. Louise wanted to know some advice to have a successful result.__
 
